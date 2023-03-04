@@ -18,6 +18,9 @@
     width: 40%;
     margin: 20px;
 }
-.img div img{
-    width: 700px;
+body{
+    background-image: url(Imagenes/tree-736885_1280.jpg);
+    color: white;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
