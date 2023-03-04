@@ -18,3 +18,29 @@ div{
     color: white;
     font-size: 2em;
 }
+header{
+    width: 100%;
+}
+header nav{
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    top: 10px;
+    width: 80%;
+    height:50px ;
+    background-color: aliceblue;
+}
+header nav ul{
+    list-style: none;
+}
+header nav ul li{
+    display: inline;
+    padding: 60px;
+}
+header nav ul li a{
+    text-decoration: none;
+    color: black;
+}
+header nav ul li a:hover{
+    color: red;
+}
