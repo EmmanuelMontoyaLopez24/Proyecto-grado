@@ -44,3 +44,7 @@ header nav ul li a{
 header nav ul li a:hover{
     color: red;
 }
+footer{
+    position: relative;
+    display: block;
+}
